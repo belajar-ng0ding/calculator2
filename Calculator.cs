@@ -8,6 +8,8 @@ namespace CaclulatorConsoleApp
         {
 			int a = 10 + 11;
 			Console.WriteLine(a);
+			
+			Console.WriteLine("Tesss");
         }
     }    
 }
